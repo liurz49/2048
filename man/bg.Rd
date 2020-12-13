@@ -18,6 +18,9 @@ Generate the backgroud grid
 \details{
 The background is a 4*4 grid
 }
+\examples{
+
+}
 \author{
 Rongzi
 }

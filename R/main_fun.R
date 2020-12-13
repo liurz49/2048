@@ -67,6 +67,8 @@ appmove <- function(e, d) {
 ##' @param e List of the figure with all elements
 ##' @return updated figure
 ##' @author Rongzi
+##' @export
+##' @examples
 ##'
 
 bg <- function(e) {
