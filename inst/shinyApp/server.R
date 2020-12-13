@@ -23,7 +23,7 @@ server <- function(input, output,session) {
   resource <- system.file("start.gif", package = 'play2048')
   #resource = "../../resource"
   #= system.file('resource', package = 'play2048')
-  print(resource)
+  #print(resource)
 
   output$plot <- renderImage({
     #print( paste(resource, "/start.gif"))

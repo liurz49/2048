@@ -2,23 +2,21 @@
 % Please edit documentation in R/main_fun.R
 \name{bg}
 \alias{bg}
-\title{add two numbers}
+\title{background plot}
 \usage{
 bg(e)
 }
 \arguments{
-\item{x}{first number}
-
-\item{y}{second number}
+\item{e}{the list of the display}
 }
 \value{
 sum of two numbers
 }
 \description{
-Add up two numbers (Description)
+Generate the backgroud grid (Description)
 }
 \details{
-We want to add up two numbers, blalala... (Details)
+The background is a 4*4 grid (Details)
 }
 \examples{
 

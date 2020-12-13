@@ -1,6 +1,6 @@
-##' Add up two numbers (Description)
+##' The movement of the  (Description)
 ##'
-##' We want to add up two numbers, blalala... (Details)
+##' Everytime user presses a key(Details)
 ##' @title add two numbers
 ##' @param x first number
 ##' @param y second number
@@ -59,12 +59,11 @@ appmove <- function(e,d) {
 
 
 
-##' Add up two numbers (Description)
+##' Generate the backgroud grid (Description)
 ##'
-##' We want to add up two numbers, blalala... (Details)
-##' @title add two numbers
-##' @param x first number
-##' @param y second number
+##' The background is a 4*4 grid (Details)
+##' @title background plot
+##' @param e the list of the display
 ##' @return sum of two numbers
 ##' @author Caleb
 ##' @export

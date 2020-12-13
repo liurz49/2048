@@ -15,10 +15,10 @@ appmove(e, d)
 sum of two numbers
 }
 \description{
-Add up two numbers (Description)
+The movement of the  (Description)
 }
 \details{
-We want to add up two numbers, blalala... (Details)
+Everytime user presses a key(Details)
 }
 \examples{
 
