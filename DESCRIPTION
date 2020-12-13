@@ -1,5 +1,5 @@
 Package: play2048
-Title: What the Package Does (One Line, Title Case)
+Title: play 2048 game by Shiny (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
