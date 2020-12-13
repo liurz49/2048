@@ -2,27 +2,26 @@
 % Please edit documentation in R/main_fun.R
 \name{create}
 \alias{create}
-\title{add two numbers}
+\title{creation}
 \usage{
 create(e)
 }
 \arguments{
-\item{x}{first number}
-
-\item{y}{second number}
+\item{e}{the list of the display}
 }
 \value{
-sum of two numbers
+updated figure
 }
 \description{
-Add up two numbers (Description)
+create a number in a random position
 }
 \details{
-We want to add up two numbers, blalala... (Details)
+Create a number 2 in a random position. For the beginning of the game
+this function will generate '2' in two random positions
 }
 \examples{
 
 }
 \author{
-Caleb
+Rongzi
 }

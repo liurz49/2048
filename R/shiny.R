@@ -7,8 +7,8 @@
 ##' 
 ##'
 play2048 <- function() {
-    #appDir <- "C:/project/play2048/inst/shinyApp"
-    appDir = system.file('shinyApp', package = 'play2048')
+    # appDir <- 'C:/project/play2048/inst/shinyApp'
+    appDir = system.file("shinyApp", package = "play2048")
     if (appDir == "") {
         stop("Could not find myapp. Try re-installing `mypackage`.", call. = FALSE)
     }

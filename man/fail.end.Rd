@@ -2,27 +2,25 @@
 % Please edit documentation in R/main_fun.R
 \name{fail.end}
 \alias{fail.end}
-\title{add two numbers}
+\title{fail condition}
 \usage{
 fail.end(e)
 }
 \arguments{
-\item{x}{first number}
-
-\item{y}{second number}
+\item{e}{the list of the display}
 }
 \value{
-sum of two numbers
+game end message
 }
 \description{
-Add up two numbers (Description)
+fail condition
 }
 \details{
-We want to add up two numbers, blalala... (Details)
+This function checks if the game fail
 }
 \examples{
 
 }
 \author{
-Caleb
+Rongzi
 }

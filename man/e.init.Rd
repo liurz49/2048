@@ -2,27 +2,25 @@
 % Please edit documentation in R/main_fun.R
 \name{e.init}
 \alias{e.init}
-\title{add two numbers}
+\title{initialization}
 \usage{
 e.init()
 }
 \arguments{
-\item{x}{first number}
-
-\item{y}{second number}
+\item{e}{the list of the display}
 }
 \value{
-sum of two numbers
+updated e
 }
 \description{
-Add up two numbers (Description)
+initialization
 }
 \details{
-We want to add up two numbers, blalala... (Details)
+Initialize the elemennts of the figure
 }
 \examples{
 
 }
 \author{
-Caleb
+Rongzi
 }

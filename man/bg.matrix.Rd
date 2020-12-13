@@ -2,27 +2,26 @@
 % Please edit documentation in R/main_fun.R
 \name{bg.matrix}
 \alias{bg.matrix}
-\title{add two numbers}
+\title{top layer}
 \usage{
 bg.matrix(e)
 }
 \arguments{
-\item{x}{first number}
-
-\item{y}{second number}
+\item{e}{the list of the display}
 }
 \value{
-sum of two numbers
+a new layer of plot, including numbers and colorful rectangulars
 }
 \description{
-Add up two numbers (Description)
+generate top layer
 }
 \details{
-We want to add up two numbers, blalala... (Details)
+this function generates the top layer of figure, including numbers and
+colorful revtangulars
 }
 \examples{
 
 }
 \author{
-Caleb
+Rongzi
 }

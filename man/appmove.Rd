@@ -2,27 +2,27 @@
 % Please edit documentation in R/main_fun.R
 \name{appmove}
 \alias{appmove}
-\title{add two numbers}
+\title{movement function}
 \usage{
 appmove(e, d)
 }
 \arguments{
-\item{x}{first number}
+\item{e}{the list of the display}
 
-\item{y}{second number}
+\item{d}{direction of the action}
 }
 \value{
-sum of two numbers
+updated figure
 }
 \description{
-The movement of the  (Description)
+The movement of the figure
 }
 \details{
-Everytime user presses a key(Details)
+This function generate a new matrix, which is an element of figure e.
 }
 \examples{
 
 }
 \author{
-Caleb
+Rongzi
 }

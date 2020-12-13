@@ -2,25 +2,22 @@
 % Please edit documentation in R/main_fun.R
 \name{bg}
 \alias{bg}
-\title{background plot}
+\title{Background plot}
 \usage{
 bg(e)
 }
 \arguments{
-\item{e}{the list of the display}
+\item{e}{List of the figure with all elements}
 }
 \value{
-sum of two numbers
+updated figure
 }
 \description{
-Generate the backgroud grid (Description)
+Generate the backgroud grid
 }
 \details{
-The background is a 4*4 grid (Details)
-}
-\examples{
-
+The background is a 4*4 grid
 }
 \author{
-Caleb
+Rongzi
 }
